@@ -8,7 +8,7 @@ function Content(){
      </div>
 
      <div className="pt-40 pl-10 text-white">
-     <a className="text">--- </a>
+     <a className="text">—</a>
      <b className="text1">What We Do</b>
      <br/>
      <p>we enjoy creating deilngful, human-centered digital<br/>experiences</p>
