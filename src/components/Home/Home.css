@@ -1,0 +1,53 @@
+.datas {
+  background-image: linear-gradient(to left, rgb(203, 56, 15), rgb(14, 4, 49));
+  opacity: 0.9;
+  border-radius: 10px;
+  padding: 10px 10px;
+}
+
+.navbar {
+  margin-top: 10px;
+  padding: 5px 10px;
+  display: flex;
+}
+
+.logo {
+  width: 40px;
+  margin-left: 20px;
+ position: absolute;
+}
+
+button {
+  left: 59%;
+}
+
+.logosearch {
+  font-size: 20px;
+  position: relative;
+  left: 58%;
+}
+
+.link1 {
+  font-size: medium;
+   margin-left: 80px;
+   color: white;
+}
+
+.link2 {
+  font-size: medium;
+  padding-left: 20px;
+  color: white;
+}
+
+.link3 {
+  font-size: medium;
+  padding-left: 20px;
+  color: white;
+}
+
+.link4 {
+  font-size: medium;
+  padding-left: 20px;
+  color: white;
+}
+
